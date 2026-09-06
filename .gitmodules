@@ -38,3 +38,6 @@
 	path = infra
 	url = https://github.com/SocialNetworkCorporation/Infra.git
 	branch = main
+[submodule "Analytics_Service"]
+	path = Analytics_Service
+	url = https://github.com/SocialNetworkCorporation/Analytics_Service.git
